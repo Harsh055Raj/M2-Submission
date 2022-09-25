@@ -1,0 +1,41 @@
+
+#container{
+    height: 200px;
+    width: 500px;
+    border: 10px solid #926981;
+    margin: 50px auto;
+    background-color: #888169 ;
+
+}
+
+h1{
+    text-align: center;
+    color: white;
+
+}
+
+#number{
+    height: 25px;
+    width: 250px;
+    border: 1px solid black;
+    margin: 50px auto;
+    text-align: center;
+    background-color: white ;
+
+}
+
+#increment{
+    height: 25px;
+    width: 100px;
+    margin-top: 50px;
+    margin-left: 125px;
+
+}
+
+#decrement{
+    height: 25px;
+    width: 100px;
+    margin-top: 50px;
+    margin-left: 50px;
+
+}
